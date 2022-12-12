@@ -1,0 +1,78 @@
+/* This is a Boiler plate code for CSS.... */
+@import "./components/navbar/navbar.css";
+@import "./components/sidebar/sidebar.css";
+
+
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+:root {
+    --primary: #f90101;
+    --secondary: #00263E;
+    --white: #fff;
+    --black: #000;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    background: var(--white);
+    overflow: hidden;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    font-size: 1.4rem;
+    font-weight: 400;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 0.05rem;
+}
+
+
+/* Seperate Heading is selected for different Sizes, different line-heights and colors etc. */
+
+h1 {
+
+}
+
+h2 {
+
+}
+
+h2 {
+
+}
+
+h4 {
+
+}
+
+h5 {
+
+}
+
+h6 {
+
+}
+
+p {
+
+}

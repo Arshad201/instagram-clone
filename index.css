@@ -2,6 +2,8 @@
 @import "./components/navbar/navbar.css";
 @import "./components/sidebar/sidebar.css";
 
+@import "./components/shafiya/shafiya.css";
+
 
 * {
     padding: 0px;
@@ -49,30 +51,16 @@ h6 {
 
 /* Seperate Heading is selected for different Sizes, different line-heights and colors etc. */
 
-h1 {
+h1 {}
 
-}
+h2 {}
 
-h2 {
+h2 {}
 
-}
+h4 {}
 
-h2 {
+h5 {}
 
-}
+h6 {}
 
-h4 {
-
-}
-
-h5 {
-
-}
-
-h6 {
-
-}
-
-p {
-
-}
+p {}

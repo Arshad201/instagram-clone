@@ -1,1 +1,1 @@
-<h1 class="sidebar">Navbar</h1>
+<h1 class="sidebar">sidebar</h1>

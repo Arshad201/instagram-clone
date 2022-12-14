@@ -11,5 +11,6 @@
     <?php require "./components/navbar/navbar.php" ?>
     <?php require "./components/sidebar/sidebar.php" ?>
     <?php require "./components/shafiya/shafiya.php" ?>
+    <?php require "./components/mush/mush.php" ?>
 </body>
 </html>

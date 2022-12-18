@@ -1,9 +1,7 @@
 /* This is a Boiler plate code for CSS.... */
 @import "./components/navbar/navbar.css";
 @import "./components/sidebar/sidebar.css";
-@import "./components/mush/mush.css";
-@import "./components/shafiya/shafiya.css";
-@import "./components/mushafiya/musha.css";
+
 
 
 * {

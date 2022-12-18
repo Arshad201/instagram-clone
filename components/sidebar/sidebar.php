@@ -1,1 +1,0 @@
-<h1 class="sidebar">sidebar</h1>

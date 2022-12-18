@@ -1,1 +1,0 @@
-<h1 class="name">Mushafiya</h1>

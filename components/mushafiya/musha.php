@@ -1,1 +1,0 @@
-<h1 class="head">Hello world</h1>

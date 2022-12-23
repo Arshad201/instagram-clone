@@ -17,6 +17,7 @@
             <img src="icons/create-line.svg" alt="">
             <img src="icons/explore-line.svg" alt="">
             <img src="icons/like.svg" alt="">
+            <img src="image/dp.jpg" class="dp">
     
         </div>
 

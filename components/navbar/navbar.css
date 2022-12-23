@@ -1,3 +1,5 @@
+@import "./components/sidebar/sidebar.css";
+
 nav {
     position: fixed;
     top: 0;

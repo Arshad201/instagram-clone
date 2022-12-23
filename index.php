@@ -9,6 +9,7 @@
 </head>
 <body>
     <?php require "./components/navbar/navbar.php" ?>
+    <?php require "./components/sidebar/sidebar.php" ?>
  
 </body>
 </html>

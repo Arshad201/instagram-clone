@@ -1,37 +1,4 @@
-/* .stories {
-    position: absolute;
-    top: 15%;
-    left: 30%;
-    display: flex;
-    gap: 1.8rem;
-    border: 1px rgb(3, 3, 3);
 
-}
-
-.story {
-    width: 70px;
-    height: 70px;
-    border-radius: 50%;
-    border: 2px solid red;
-}
-
-/* .story-border{
-    width: 68px;
-    height: 68px;
-    border-radius: 50%;
-    border: 2px solid red;
-  
-} */
-
-/* .story img {
-    width: 60px;
-    height: 60px;
-    border-radius: 50%;
-    /* position: absolute; */
-
-/* right: 1%;
-    top: 6%;
-} */
 .story-section {
     background: var(--white);
     display: grid;

@@ -1,7 +1,7 @@
 /* This is a Boiler plate code for CSS.... */
 @import "./components/navbar/navbar.css";
 @import "./components/sidebar/sidebar.css";
-
+@import "./components/story/story.css";
 
 
 * {
@@ -24,6 +24,7 @@ html {
 body {
     background: var(--white);
     overflow: hidden;
+    background-color: rgb(243, 242, 242);
 }
 
 ul {

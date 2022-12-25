@@ -1,0 +1,42 @@
+
+.story-section {
+    background: var(--white);
+    display: grid;
+    grid-template-columns: repeat(6, auto);
+    border: 1px solid #ccc;
+  
+    position: absolute;
+    top: 14%;
+    left: 20%;
+    gap: 2rem;
+    padding: 2.3rem;
+    border-radius:8px;
+}
+
+.story-content{
+    width: 7rem;
+    height: 7rem;
+    border-radius: 50%;
+
+    background: linear-gradient(white, white) padding-box,
+    linear-gradient(to right, rgb(231, 91, 49), rgb(212, 50, 204),rgb(248, 45, 45) )border-box;
+    border: 2px solid transparent;
+}
+  
+
+
+.story-content img {
+    width: 6rem;
+    height: 6rem;
+    border-radius: 50%;
+    position: relative;
+left: 4%;
+top: 5%;
+}
+
+.story-content .username {
+    margin-top: 0.5rem;
+    margin-left: 0.9rem;
+    font-size: 11px;
+}
+

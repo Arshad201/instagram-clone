@@ -1,24 +1,20 @@
-<nav>
-<div class="nav-container">
-
-        <div class="logo">
-            <img src="icons/insta-logo.svg" alt="logo">
-        </div>
-
-        <form class="srch-box">
-            <label for="srch-box"><i class="fa-1 fa-light fas fa-search"></i></label>
-            <input type="search" id="srch-box" placeholder="Search">
-        </form>
-
-        <div class="icons">
-        
-            <img src="icons/home-filled.svg" alt="">
-            <img src="icons/messenger-line.svg" alt="">
-            <img src="icons/create-line.svg" alt="">
-            <img src="icons/explore-line.svg" alt="">
-            <img src="icons/like.svg" alt="">
-    
-        </div>
-
+<header>
+<div class="logo">
+    <img src="Icons/insta-logo.svg" alt="Insta logo">
 </div>
+<div class="srch-box">
+    <i class="fa-1 fas fa-search"></i>
+    <input type="search" placeholder="Search">
+</div>
+<nav>
+    <ul>
+        <li><a href="#"> <img src="Icons/home-filled.svg" alt=""> </a></li>
+        <li><a href="#"> <img src="Icons/messenger-line.svg" alt=""> </a></li>
+        <li><a href="#"> <img src="Icons/create-line.svg" alt=""> </a></li>
+        <li><a href="#"> <img src="Icons/explore-line.svg" alt=""> </a></li>
+        <li><a href="#"> <img src="Icons/noti-heart-like.svg" alt=""> </a></li>
+        <li><a href="#"  class="dp"> <img src="image/dp2.jpg" alt=""> </a></li>
+    </ul>
 </nav>
+
+</header>

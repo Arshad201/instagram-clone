@@ -5,11 +5,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="index.css">
+    <script src="https://kit.fontawesome.com/bac5e06bc7.js" crossorigin="anonymous"></script>
     <title>Home</title>
 </head>
 <body>
     <?php require "./components/navbar/navbar.php" ?>
     <?php require "./components/sidebar/sidebar.php" ?>
+    <?php require "./components/story/story.php" ?>
  
 </body>
 </html>

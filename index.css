@@ -2,6 +2,7 @@
 @import "./components/navbar/navbar.css";
 @import "./components/sidebar/sidebar.css";
 @import "./components/story/story.css";
+@import "./components/cards/cards.css";
 
 
 * {

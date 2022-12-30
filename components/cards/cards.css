@@ -1,15 +1,13 @@
 .container {
     margin: 20px 41% 20px 18%;
-    
-
 }
 
 .container .cards {
 
     display: flex;
     flex-direction: column;
-    background-color:white;
-    border: 1px solid #ccc;
+    background-color:var(--white);
+    border: 1px solid var(--grey);
     border-radius:8px;
 }
 
@@ -35,3 +33,18 @@
     height: 35px;
     border-radius: 50%;
 }
+
+.cards .post img{
+padding-left:5px;
+}
+
+.content .content1 {
+    padding:15px;
+    display:flex;
+    justify-content: space-between;
+}
+
+.content .content1 .icons-1 img{
+   padding-right:15px;
+}
+

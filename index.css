@@ -13,10 +13,11 @@
 }
 
 :root {
-    --primary: #f90101;
+    --primary:rgba(239,239,239, 1);
     --secondary: #00263E;
     --white: #fff;
     --black: #000;
+    --grey:#ccc;
 }
 
 html {
@@ -25,7 +26,11 @@ html {
 
 body {
     background: var(--white);
+<<<<<<< HEAD
    
+=======
+
+>>>>>>> 0b06924700572d2118dc8d0268ac34cd06e41bd1
     background-color: rgb(243, 242, 242);
 }
 

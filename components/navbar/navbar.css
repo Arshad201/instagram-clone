@@ -3,7 +3,7 @@ header{
     justify-content:space-between ;
     align-items:center;
     padding:10px 15%;
-    border-bottom:1px solid rgba(239,239,239, 1);
+    border-bottom:1px solid var(--primary);
     background:white;
 
 }
@@ -14,7 +14,7 @@ header .logo{
 }
 header .srch-box{
     width:250px;
-    background-color:rgba(239,239,239, 1);
+    background-color:var(--primary);
     display:flex;
     align-items:center;
     padding:3px 16px;
@@ -30,7 +30,7 @@ header .srch-box input{
     height:30px;
     outline:none;
     border:none;
-    background:rgba(239,239,239,1);
+    background:var(--primary);
     padding-left:10px;
     font-size:17px;
 }
@@ -45,11 +45,7 @@ header nav ul li  .dp img{
     height:25px;
     border-radius:50%;
 }
-.box{
-    width:500px;
-    height:500px;
-    border:3px solid red;
-}
+
 
 @media (max-width:1200px){
 

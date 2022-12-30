@@ -10,9 +10,9 @@
 </head>
 <body>
     <?php require "./components/navbar/navbar.php" ?>
-    <?php require "./components/sidebar/sidebar.php" ?>
+  
     <?php require "./components/story/story.php" ?>
     <?php require "./components/cards/cards.php" ?>
- 
+    <?php require "./components/sidebar/sidebar.php" ?>
 </body>
 </html>

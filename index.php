@@ -11,8 +11,27 @@
 <body>
     <?php require "./components/navbar/navbar.php" ?>
   
-    <?php require "./components/story/story.php" ?>
-    <?php require "./components/cards/cards.php" ?>
-    <?php require "./components/sidebar/sidebar.php" ?>
+
+   
+  <div class="mega-container">    
+
+
+  <!-- --------------container1 containing story-section and post-section--------------------- -->
+
+
+<div class="container1">
+<?php require "./components/story/story.php" ?>
+<?php require "./components/post/post.php" ?>
+</div>
+
+
+<!-- ------------container2 containing suggestion section------------------------------------ -->
+
+
+<div class="container2">
+<?php require "./components/sidebar/sidebar.php" ?>
+</div>
+</div>
+
 </body>
 </html>

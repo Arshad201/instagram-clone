@@ -1,13 +1,8 @@
-.side-section{
-    position: absolute;
-    top: 74px;
-    right: 16px;
-padding: 20px;
-margin-right: 130px;
-margin-top: 50px; 
+.side-section {
+/* margin-left:5rem; */
 }
 
-.acc{
+.acc {
     width: fit-content;
     display: flex;
     justify-content: center;
@@ -17,62 +12,69 @@ margin-top: 50px;
 }
 
 
-.acc img{
+.acc img {
     width: 50px;
     height: 50px;
     border-radius: 50%;
 }
-.bcc img{
+
+.bcc img {
     width: 40px;
     height: 40px;
     border-radius: 50%;
 }
 
- .handle{
+.handle {
     font-size: 16px;
     font-weight: 600;
 
 }
 
- .name{
+.name {
     padding: 4px;
-font-size: 14px;
-color: gray;
+    font-size: 14px;
+    color: gray;
 }
 
-.acc a{
-   font-weight: 600;
+.acc a {
+    font-weight: 600;
     font-size: 12px;
     margin-left: 80px;
 }
-.see{
+
+.see {
     padding-left: 72px;
     color: black;
 }
 
-.links{
+.links {
     display: flex;
-   
+
 }
-.links li a{
+
+.links li a {
     color: #ccc;
     font-size: 12px;
 }
-.copyright{
+
+.copyright {
     margin-top: 15px;
     font-size: 13px;
     color: #ccc;
 }
 
-.zero{
+.zero {
     margin-left: 22px;
 }
+
 .two {
     margin-left: 12px;
 }
+
 .three {
     margin-left: 6px;
 }
+
 .four {
     margin-left: 21px;
 }

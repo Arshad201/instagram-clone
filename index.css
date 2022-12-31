@@ -1,7 +1,8 @@
 /* This is a Boiler plate code for CSS.... */
 @import "./components/navbar/navbar.css";
-@import "./components/sidebar/sidebar.css";
+
 @import "./components/story/story.css";
+@import "./components/sidebar/sidebar.css";
 @import "./components/cards/cards.css";
 
 
@@ -25,7 +26,11 @@ html {
 
 body {
     background: var(--white);
+<<<<<<< HEAD
+   
+=======
 
+>>>>>>> 0b06924700572d2118dc8d0268ac34cd06e41bd1
     background-color: rgb(243, 242, 242);
 }
 

@@ -1,32 +1,45 @@
-.side-section {
-/* margin-left:5rem; */
+.side-section{
+    /* border: 1px solid black; */
+    margin-right:17%;
 }
-
-.acc {
-    width: fit-content;
+.profile{
+  
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
-    gap: 20px;
+    gap: 10px;
     margin-bottom: 10px;
+
 }
 
 
-.acc img {
+.info{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.own-profile-pic img {
     width: 50px;
     height: 50px;
     border-radius: 50%;
 }
 
-.bcc img {
-    width: 40px;
-    height: 40px;
+.others-profile-pic img {
+    width: 35px;
+    height: 35px;
     border-radius: 50%;
+}
+
+.names {
+    margin-left: 1rem;
+   
 }
 
 .handle {
     font-size: 16px;
-    font-weight: 600;
+    font-weight: 500;
 
 }
 
@@ -36,15 +49,19 @@
     color: gray;
 }
 
-.acc a {
+.profile a {
     font-weight: 600;
     font-size: 12px;
     margin-left: 80px;
 }
 
 .see {
-    padding-left: 72px;
+    
     color: black;
+}
+
+.switch{
+    margin-left: -28px;
 }
 
 .links {
@@ -63,18 +80,11 @@
     color: #ccc;
 }
 
-.zero {
-    margin-left: 22px;
-}
+/* media query */
 
-.two {
-    margin-left: 12px;
-}
+@media (max-width:1050px){
 
-.three {
-    margin-left: 6px;
-}
-
-.four {
-    margin-left: 21px;
+    .side-section {
+        display: none;
+    }
 }

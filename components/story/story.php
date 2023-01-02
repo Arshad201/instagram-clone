@@ -7,6 +7,7 @@
  
 
     <div class="story-content">
+
         <div class="img"><img src="image/holly.jfif" alt=""></div>
         <div class="username">min_holly</div>
     </div>

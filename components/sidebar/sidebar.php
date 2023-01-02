@@ -1,68 +1,108 @@
 <div class="side-section">
     
-        <div class="acc">
-            <img src="image/dp1.jpg" alt="">
+        <div class="profile">
+            
+        <div class="info own-profile-pic"> 
+            <img src="image/dp1.jpg" >
             <div class="names">
                 <p class="handle">livesss_on_saturn</p>
                 <p class="name">Cara lavigne</p>
             </div>
+            </div>
             
-            <div class="switch"> <a href="#">Switch</a></div>
+            <div class="btn switch"> <a href="#">Switch</a></div>
     </div>
 
-  <div class="acc">
+  <div class="profile">
     <p class="name">Suggestions for you</p>
     <a href="#" class="see">See All</a>
   </div>
 
-  <div class="acc bcc">
-            <img src="image/s1.jpg" alt="">
-            <div class="names">
-                <p class="handle">kz393849</p>
-                <p class="name">New to Instagram</p>
-            </div>
-            <div class="zero"> <a href="#">Switch</a></div>
-           
-    </div>
+  <div class="profile">
+            
+            <div class="info others-profile-pic"> 
+                <img src="image/s1.jpg" >
+                <div class="names">
+                    <p class="handle">kz393849</p>
+                    <p class="name">New to Instagram</p>
+                </div>
+                </div>
+                
+                <div class="btn"> <a href="#">Follow</a></div>
+        </div>
 
-    <div class="acc bcc">
-            <img src="image/s2.jpg" alt="">
-            <div class="names">
-                <p class="handle">_bulletproof_</p>
-                <p class="name">Followed by alfiya.07</p>
-            </div>
-            <div class="one"> <a href="#">Switch</a></div>
-          
-    </div>
+        <div class="profile">
+            
+            <div class="info others-profile-pic"> 
+                <img src="image/s2.jpg" alt="">
+                <div class="names">
+                    <p class="handle">_bulletproof_</p>
+                    <p class="name">Followed by alfiya.07</p>
+                </div>
+                </div>
+                
+                <div class="btn"> <a href="#">Follow</a></div>
+        </div>
 
-    <div class="acc bcc">
-            <img src="image/s3.jpg" alt="">
-            <div class="names">
-                <p class="handle">mistake_manager</p>
-                <p class="name">Follows you</p>
-            </div>
-            <div class="two"> <a href="#">Switch</a></div>
-    </div>
+        <div class="profile">
+            
+            <div class="info others-profile-pic"> 
+                <img src="image/s5.jpg" alt="">
+                <div class="names">
+                    <p class="handle">cats_world</p>
+                    <p class="name">New to Instagram</p>
+                </div>
+                </div>
+                
+                <div class="btn"> <a href="#">Follow</a></div>
+        </div>
 
-    <div class="acc bcc">
-            <img src="image/s4.jpg" alt="">
-            <div class="names">
-                <p class="handle">miss_latte</p>
-                <p class="name">Followed by h.kh_03</p>
-            </div>
-            <div class="three"> <a href="#">Switch</a></div>
-    </div>
+        <div class="profile">
+            
+            <div class="info others-profile-pic"> 
+                <img src="image/s3.jpg" alt="">
+                <div class="names">
+                    <p class="handle">mistake_manager</p>
+                    <p class="name">Follows you</p>
+                </div>
+                </div>
+                
+                <div class="btn"> <a href="#">Follow</a></div>
+        </div>
 
-    <div class="acc bcc">
-            <img src="image/s5.jpg" alt="">
-            <div class="names">
-                <p class="handle">cats_world</p>
-                <p class="name">New to Instagram</p>
-            </div>
-            <div class="four"> <a href="#">Switch</a></div>
-    </div>
+        <div class="profile">
+            
+            <div class="info others-profile-pic"> 
+                <img src="image/s4.jpg" alt="">
+                <div class="names">
+                    <p class="handle">miss_latte</p>
+                    <p class="name">Follow by h.kh_03</p>
+                </div>
+                </div>
+                
+                <div class="btn"> <a href="#">Follow</a></div>
 
-    
+              
+        </div>
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
     
 
     <div class="extra">

@@ -21,7 +21,7 @@
 }
 
 html {
-    font-size: 62.5%;
+    font-size: 50.5%;
 }
 
 body {
@@ -74,17 +74,24 @@ p {}
     display: flex;
     flex-direction: column;
     gap: 20px;
+  
+    width: 100%;
 }
 
 .container2{
-    margin-top: 5%;
+    margin-top: 17%;
+    
 }
 
 .mega-container {
     display: grid;
     grid-template-columns: auto auto;
-    gap: 4rem;
+    gap: 3rem;
     width: 70%;
     margin-inline: auto;
     margin-top: 28px;
+    padding-inline: 20px;
+
 }
+
+

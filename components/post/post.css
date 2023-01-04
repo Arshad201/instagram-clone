@@ -1,6 +1,4 @@
-.container {
-  
-}
+.container {}
 
 .container .cards {
 
@@ -24,7 +22,7 @@
     display: grid;
     grid-template-columns: auto auto;
     gap: 1rem;
-  
+
     align-items: center
 }
 
@@ -35,15 +33,86 @@
 }
 
 .cards .post img {
-    padding-left: 7px;
+    padding-left: 1px;
+}
+
+.content {
+    padding: 15px;
 }
 
 .content .content1 {
-    padding: 15px;
+
     display: flex;
     justify-content: space-between;
 }
 
 .content .content1 .icons-1 img {
     padding-right: 15px;
+}
+
+.likes {
+    padding-block: 10px;
+    font-size: 14px;
+}
+
+.likes p {
+    font-weight: 501;
+}
+
+.caption {
+    padding-bottom: 10px;
+}
+
+.view {
+    padding-bottom: 10px;
+}
+
+.dark {
+    font-weight: 501;
+}
+
+.grey {
+    color: var(--dark-grey);
+}
+
+.smallText {
+    font-size: 10px;
+}
+
+/* ---------------------------Lower part------------------------- */
+
+
+.lower-part {
+    border-top: 1px solid var(--grey);
+    display: flex;
+    justify-content: space-between;
+    padding: 14px 16px;
+}
+
+.comment-section {
+    display: flex;
+    gap: 17px;
+}
+
+.comment-section .fa-face-smile {
+    font-size: 24px;
+}
+
+.comment {
+    color:var(--light-grey);
+    align-self: center;
+}
+
+.post-comment .thick {
+    font-weight: 501;
+}
+
+.light-blue {
+    color: var(--light-blue);
+}
+
+
+
+.extra {
+    height: 50vh;
 }

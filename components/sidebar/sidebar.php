@@ -6,7 +6,7 @@
             <img src="image/dp1.jpg" >
             <div class="names">
                 <p class="handle">livesss_on_saturn</p>
-                <p class="name">Cara lavigne</p>
+                <p class="own-name">Cara lavigne</p>
             </div>
             </div>
             
@@ -14,7 +14,7 @@
     </div>
 
   <div class="profile">
-    <p class="name">Suggestions for you</p>
+    <p class="sugg">Suggestions for you</p>
     <a href="#" class="see">See All</a>
   </div>
 
@@ -37,7 +37,7 @@
                 <img src="image/s2.jpg" alt="">
                 <div class="names">
                     <p class="handle">_bulletproof_</p>
-                    <p class="name">Followed by alfiya.07</p>
+                    <p class="name">Followed by alfiya</p>
                 </div>
                 </div>
                 
@@ -62,7 +62,7 @@
             <div class="info others-profile-pic"> 
                 <img src="image/s3.jpg" alt="">
                 <div class="names">
-                    <p class="handle">mistake_manager</p>
+                    <p class="handle">mistakmanager</p>
                     <p class="name">Follows you</p>
                 </div>
                 </div>

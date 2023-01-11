@@ -2,7 +2,7 @@ header{
     display:flex;
     justify-content:space-between ;
     align-items:center;
-    padding:10px 15%;
+    padding:14px 15%;
     border-bottom:1px solid var(--primary);
     background:white;
 
@@ -22,7 +22,7 @@ header .srch-box{
     margin-left:21rem;
 }
 header .fa-1{
-    font-size:15px;
+    font-size:18px;
     color: rgb(172, 170, 170);
 }
 
@@ -33,7 +33,10 @@ header .srch-box input{
     background:var(--primary);
     padding-left:10px;
     font-size:17px;
+   
 }
+
+
 header nav ul{
     display:flex;
 }

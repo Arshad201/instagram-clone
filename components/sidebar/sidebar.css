@@ -1,14 +1,15 @@
 .side-section{
     /* border: 1px solid black; */
     margin-right:17%;
+    
 }
 .profile{
   
     display: flex;
     justify-content: space-between;
     align-items: center;
-    gap: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
+    width: 312px;
 
 }
 
@@ -21,8 +22,9 @@
 
 
 .own-profile-pic img {
-    width: 50px;
-    height: 50px;
+    width: 60px;
+    height: 60px;
+    border: 1px solid rgb(128, 128, 128);
     border-radius: 50%;
 }
 
@@ -34,6 +36,7 @@
 
 .names {
     margin-left: 1rem;
+    margin-right: 3rem;
    
 }
 
@@ -43,15 +46,34 @@
 
 }
 
-.name {
-    padding: 4px;
-    font-size: 14px;
+.own-name{
+    font-size: 15px;
+    padding-inline: 4px;
+ 
+    font-weight: 200;
     color: gray;
 }
+.name {
+    padding-inline: 4px;
+    font-size: 13px;
+    font-weight: 200;
+    color: gray;
+}
+.sugg {
+    padding-inline: 4px;
+    font-size: 15px;
+    font-weight: 500;
+    color: rgb(134, 130, 130);
+
+}
+.btn a{
+    color: rgb(21, 165, 248);
+}
+
 
 .profile a {
-    font-weight: 600;
-    font-size: 12px;
+   
+    font-size: 13px;
     margin-left: 80px;
 }
 
@@ -61,7 +83,8 @@
 }
 
 .switch{
-    margin-left: -28px;
+    margin-left: -38px;
+   
 }
 
 .links {
@@ -82,7 +105,7 @@
 
 /* media query */
 
-@media (max-width:1050px){
+@media (max-width:1070px){
 
     .side-section {
         display: none;
